@@ -1,1 +1,3 @@
 # odin-recipes
+I will create a recipe website by using knowledge of html that I have enhanced from Odin project:
+html boilerplate, images, links, html elements like h, strong, em, p...
