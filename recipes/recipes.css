@@ -1,0 +1,28 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header {
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+}
+
+.main-header {
+    font-size: 48px;
+    background-color: rgb(255, 153, 0);
+}
+
+.description {
+    font-size: 18px;
+}
+
+.list {
+    font-size: 16px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
